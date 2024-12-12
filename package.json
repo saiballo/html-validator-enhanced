@@ -1,6 +1,6 @@
 {
 	"name": "@saiballo/html-validator-enhanced",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A Node module with optional settings for validating HTML pages using the \"validator.w3.org/nu\" or \"whatwg\" standard.",
 	"main": "main.js",
 	"keywords": [
