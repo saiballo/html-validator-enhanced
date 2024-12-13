@@ -1,6 +1,6 @@
 {
 	"name": "@saiballo/html-validator-enhanced",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A Node module with optional settings for validating HTML pages using the \"validator.w3.org/nu\" or \"whatwg\" standard.",
 	"main": "main.js",
 	"keywords": [
@@ -19,7 +19,7 @@
 	"homepage": "https://github.com/saiballo/html-validator-enhanced#readme",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/saiballo/html-validator-enhanced.git"
+		"url": "git+https://github.com/saiballo/html-validator-enhanced.git"
 	},
 	"bugs": {
 		"url": "https://github.com/saiballo/html-validator-enhanced"

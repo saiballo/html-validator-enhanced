@@ -80,7 +80,7 @@ const options = {
 ```
 #### Parameters
 ```js
-// Possible values: "WHATWG" | "https://html5.validator.nu"
+// Possible values: "WHATWG" | "https://validator.w3.org/nu/"
 //"WHATWG" is recommended. it will validate against the WHATWG standards.
 "validator":  "WHATWG"
 
