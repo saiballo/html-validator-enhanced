@@ -96,7 +96,7 @@ const options = {
 
 // only for "WHATWG" validator. string or array of strings or rules (when using WHATWG) you want the checker to remove in the response. even partial text.
 // e.g. "ignore": ["Mismatched close-tag, expected '</div>' but found '</body>'", "another partial error response text"]
-"ignore": [],
+"ignore": []
 
 // only for "WHATWG" validator. additional configuration for elements and rules
 "whatwgConfig": {
